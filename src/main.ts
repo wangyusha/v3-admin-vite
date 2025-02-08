@@ -13,7 +13,7 @@ import "vxe-table/lib/style.css"
 import "@@/assets/styles/index.scss"
 import "virtual:uno.css"
 
-// 创建应用实例 bywys
+// 创建应用实例
 const app = createApp(App)
 
 // 安装插件（全局组件、自定义指令等）
